@@ -1,0 +1,104 @@
+
+#googleImg {
+
+    display: block;
+    margin: auto;
+    
+}
+
+
+
+.container{ 
+    width: 1900px;
+   
+    display:table;
+background-color: rgb(177, 174, 174);
+
+
+}
+
+.contain{
+
+    display:table-cell;
+vertical-align:middle; 
+    text-align: center;
+}
+
+
+
+#text {
+
+
+width: 300px;
+
+}
+
+.aciklama  {
+    
+    font-size: medium;
+    margin: auto;
+}
+
+.button {
+
+    
+    margin: 1px;
+      
+    
+}
+
+
+.links {
+
+    
+    
+    float: left;
+    background-color: rgb(120, 240, 140);
+    list-style: none;
+    /* margin: 2px; */
+    font-size: small;
+    margin: 2px;
+    display: table;
+
+}
+
+.l1{
+
+   
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+    width: 650px;
+    height: 95px;
+
+}
+
+.l2{
+   
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+    width: 471px;
+    height: 95px;
+
+
+}
+
+    
+
+.l3{
+    display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+    width: 650px;
+    height: 95px;
+   
+    
+
+}
+
+
+#footer {
+padding-top: 5cm;
+text-align: center;
+}
